@@ -1,0 +1,46 @@
+p.text1{
+    color:red;
+}
+p.text2{
+    color:red;
+}
+p.italic{
+    font-weight:bolder;
+}
+p.bold{
+    font-weight:bolder;
+}
+li.green{
+    color: green;
+}
+li.red{
+    color: red;
+}
+li.blue{
+    color: blue;
+}
+li.pink{
+    color: pink;
+}
+.xxsmall{
+    font-size: xx-small;
+}
+.xsmall{
+    font-size: x-small;
+}
+.medium{
+    font-size: medium;
+}
+.xlarge{
+    font-size: x-large;
+}
+.large{
+    font-size: large;
+}
+.small{
+    font-size: small;
+}
+.xxlarge{
+    font-size: xx-large;
+}
+    
